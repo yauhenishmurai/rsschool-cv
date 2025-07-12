@@ -13,3 +13,5 @@ Hi everyone, my name is Yauheni. I'm originally from Belarus, and for the past f
 * [VCarve](https://www.vectric.com/)
 * [Trotec Ruby](https://mytrotec.ca/)
 * Facebook Ads Menagement
+#### Honing skills
+* Markdown & GitHub
