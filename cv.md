@@ -21,3 +21,8 @@ This block demonstrates a simple JavaScript function for string manipulation.
 function solution(str) {
   return str.split('').reverse().join('');
 }
+```
+#### IT Projects & Learning
+Follow my progress and connect with me for insights and updates!
+* [GitHub](https://github.com/yauhenishmurai)
+* [LinkedIn](https://www.linkedin.com/in/yauhenishmurai?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
