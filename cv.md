@@ -26,3 +26,6 @@ function solution(str) {
 Follow my progress and connect with me for insights and updates!
 * [GitHub](https://github.com/yauhenishmurai)
 * [LinkedIn](https://www.linkedin.com/in/yauhenishmurai?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+#### Certifications & Professional Development
+* JS/Front-End Pre-School Program (2025 Q2)
+* Completed coursework in digital marketing strategies, including SEO, SEM, and SMM. IT-Academy, Educational Center of Hi-Tech Park, Grodno 2019
