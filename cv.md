@@ -29,3 +29,7 @@ Follow my progress and connect with me for insights and updates!
 #### Certifications & Professional Development
 * JS/Front-End Pre-School Program (2025 Q2)
 * Completed coursework in digital marketing strategies, including SEO, SEM, and SMM. IT-Academy, Educational Center of Hi-Tech Park, Grodno 2019
+#### Languages
+* Belarusian/Russian: Native
+* Polish B1: Daily practice in professional and everyday contexts
+* English A2
