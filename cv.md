@@ -15,3 +15,9 @@ Hi everyone, my name is Yauheni. I'm originally from Belarus, and for the past f
 * Facebook Ads Menagement
 #### Honing skills
 * Markdown & GitHub
+#### Code exemple: string reversal
+This block demonstrates a simple JavaScript function for string manipulation.
+```javascript
+function solution(str) {
+  return str.split('').reverse().join('');
+}
